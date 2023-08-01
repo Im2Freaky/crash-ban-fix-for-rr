@@ -1,0 +1,11 @@
+1. Open the security file
+
+2. At the bottom right hit install
+
+3. At store location hit current user and hit next
+
+4. After that click the (place all ceftificates in the following store)
+
+5. Click browse, then press the second which says (Trusted Root Certification Authorities)
+
+6. Press ok then finish the security file
